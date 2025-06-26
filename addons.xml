@@ -15,7 +15,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.blackghost" name="Blackghost" version="7.0.0" provider-name="Blackghost">
+<addon id="plugin.video.blackghost" name="Blackghost" version="8.0.0" provider-name="Blackghost">
 	<requires>
 		<import addon="script.module.simplecache"/>
         <import addon="script.module.six"/>
@@ -34,7 +34,7 @@
 	</extension>
 
 	<extension point="xbmc.addon.metadata">
-		<summary>BlackGhost 7.0</summary>
+		<summary>BlackGhost 8.0</summary>
 		<description>BLACK GHOST for ALL</description>
 		<platform>all</platform>
 		<assets>
